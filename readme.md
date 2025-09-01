@@ -70,7 +70,7 @@ To run this project on your local machine, follow these steps:
 ---
 ## 📈 Model Performance
 
-The Logistic Regression model was trained on 80% of the data and evaluated on the remaining 20% (the test set).
+The Logistic Regression model was trained on 90% of the data and evaluated on the remaining 10% (the test set).
 
 * **Model**: Logistic Regression
 * **Evaluation Metric**: Accuracy
